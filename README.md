@@ -1,6 +1,6 @@
 # 🪟 StreamlitOS - Windows 11 in Python
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://windows-11-os.streamlit.app))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 
@@ -9,7 +9,8 @@
 ![Screenshot]![demo](https://github.com/user-attachments/assets/e9c061d3-7ecd-449a-a706-431c2bc6bba1)
 
 ## 🚀 Live Demo
-**[Click here to try StreamlitOS Live](https://your-app-url-here.streamlit.app/)**
+**[Click here to try StreamlitOS Live](https://windows-11-os.streamlit.app
+)**
 
 ---
 
