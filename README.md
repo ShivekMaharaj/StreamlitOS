@@ -51,13 +51,13 @@ pip install -r requirements.txt
 
 # 4. Run the OS
 streamlit run main.py
+```
 
 ## 🧩 Tech Stack
 *   **Core:** [Streamlit](https://streamlit.io/)
 *   **Language:** Python
 *   **Styling:** CSS3 (Injected)
 *   **Interactivity:** Vanilla JavaScript (Bridge pattern for Drag/Drop/Resize)
-```
 
 ---
 
