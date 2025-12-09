@@ -51,3 +51,25 @@ pip install -r requirements.txt
 
 # 4. Run the OS
 streamlit run main.py
+
+## 🧩 Tech Stack
+*   **Core:** [Streamlit](https://streamlit.io/)
+*   **Language:** Python
+*   **Styling:** CSS3 (Injected)
+*   **Interactivity:** Vanilla JavaScript (Bridge pattern for Drag/Drop/Resize)
+
+---
+
+## 👤 Author
+
+**Shivek Maharaj**  
+Data Analyst | AI Engineer
+
+*   **LinkedIn:** [Shivek Maharaj](https://www.linkedin.com/in/shivek-maharaj/)
+*   **GitHub:** [@ShivekMaharaj](https://github.com/ShivekMaharaj)
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
