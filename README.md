@@ -6,7 +6,7 @@
 
 > **A fully functional, stateful Windows 11 Operating System replica built entirely in Python using Streamlit.**
 
-![Screenshot]![demo](https://github.com/user-attachments/assets/e9c061d3-7ecd-449a-a706-431c2bc6bba1)
+![demo](https://github.com/user-attachments/assets/e9c061d3-7ecd-449a-a706-431c2bc6bba1)
 
 ## 🚀 Live Demo
 **[Click here to try StreamlitOS Live](https://windows-11-os.streamlit.app
