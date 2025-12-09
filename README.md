@@ -57,6 +57,7 @@ streamlit run main.py
 *   **Language:** Python
 *   **Styling:** CSS3 (Injected)
 *   **Interactivity:** Vanilla JavaScript (Bridge pattern for Drag/Drop/Resize)
+```
 
 ---
 
